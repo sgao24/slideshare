@@ -1,8 +1,7 @@
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title></title>
+<title>Login</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -63,6 +62,12 @@ div.vertical {
    text-align: center;
 }
 
+prompt {
+	font-family: "Source Sans", Helvetica, Arial;
+	font-size: medium;
+	color: white;
+}
+
 </style>
 
 <body>
@@ -71,8 +76,8 @@ div.vertical {
 		<div class="horizontal">
 			<div class="vertical">
 				<div class="box">
-					<div>Please enter the first 6 numbers of your Student ID</div>
-					<div>〔身份验证〕请输入学号前6位</div>
+					<div class="prompt">Please enter the first 6 numbers of your Student ID</div>
+					<div class="prompt">〔身份验证〕请输入学号前6位</div>
 					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
 					<button id="loginbutton" type="button">Enter</button>
 					<p id="wrongPassword" style="display: none">wrong password</p>
