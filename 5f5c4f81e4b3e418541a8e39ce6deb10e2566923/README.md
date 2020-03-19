@@ -39,4 +39,4 @@ After review, the resources should be deleted from all of your devices. If any i
 - [先天性唇腭裂](19-20-2%20小儿外科学\4-先天性唇腭裂%282020%29.pdf)
 
 #### 胸部疾病
-- [先天性漏斗胸](19-20-2%20小儿外科学\4-先天性漏斗胸%282020%29.pdf)
+- [先天性漏斗胸](19-20-2%20小儿外科学\5-Pectus_Excavatum%282020%29.pdf)
